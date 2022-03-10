@@ -4,3 +4,4 @@
 
 1. PHP >= 7.0
 2. mbstring must be enabled
+3. Japanese text is used
